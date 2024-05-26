@@ -5,3 +5,4 @@
 2. Education (education.html)
 3. Work (work.html)
 4. Contact (contact.html)
+หริณ มาเบ้า มิก
